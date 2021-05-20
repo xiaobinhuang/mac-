@@ -1,6 +1,11 @@
+0. xcode
 1. 安装下载Chrome浏览器
 2. 安装搜狗输入法
 3. 安装vscode
 4. sublime text
 5. Apifox
-6. Homebrew
+6. Homebrew: 安装命令bash -c "$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)"
+7. switchhosts
+8. item2
+go2shell
+source tree
